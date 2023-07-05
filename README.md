@@ -1,0 +1,3 @@
+# honeywords-bupt
+The purpose of introducing zero-divisor graph is to construct a random sequence, and the generated random sequence is combined with the username (password) to generate honeywords.
+The purpose of introducing zero-divisor graph is to construct a random sequence, and the generated random sequence is combined with the username (password) to generate honeywords. Through the proof of theorem and the construction method of zero-divisor graph sequence, it can be seen that zero-divisor graph can provide a large enough generation space and randomly select zero-divisor graph to construct zero-divisor graph sequence. This preserves a good statistical sense of randomness. This lays the foundation for subsequent safety analysis
